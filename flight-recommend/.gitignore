@@ -1,0 +1,15 @@
+/target/
+
+/catalina.base_IS_UNDEFINED/
+/develop/
+output
+.idea
+logs
+*.log
+build
+out
+bin
+.settings
+*.iml
+.classpath
+.project
